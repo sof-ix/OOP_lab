@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sofan\\source\\repos\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab1\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEE86BE8-0CF8-4CDD-B0A4-CA279BF5751D}|ConsoleApp1.csproj|c:\\users\\sofan\\source\\repos\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DEE86BE8-0CF8-4CDD-B0A4-CA279BF5751D}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F597F437-35DB-457C-9F91-3F237477D666}|ConsoleApp1.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F597F437-35DB-457C-9F91-3F237477D666}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConsoleApp1",
-              "DocumentMoniker": "C:\\Users\\sofan\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
-              "ToolTip": "C:\\Users\\sofan\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeToolTip": "ConsoleApp1.csproj",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-19T06:43:15.708Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T06:52:38.986Z",
               "EditorCaption": ""
             }
           ]

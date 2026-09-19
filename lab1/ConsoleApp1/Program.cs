@@ -57,7 +57,7 @@ namespace Lab1Variant12
                 Console.Write("Введите значение переменной N: ");
                 if (!int.TryParse(Console.ReadLine(), out int n))
                 {
-                    Console.WriteLine("Ошибка");
+                    Console.WriteLine("Ошибка!");
                     continue;
                 }
                 Console.Write("Введите значение переменной M: ");
@@ -101,7 +101,7 @@ namespace Lab1Variant12
             double podKornem = x + Math.Pow(Math.Abs(x), 0.25);
             if (podKornem < 0)
             {
-                return "ошибка";
+                return "Ошибка!";
             }
             return (Math.Sqrt(podKornem) + Math.Abs(x)).ToString();
         }
@@ -121,13 +121,13 @@ namespace Lab1Variant12
                 Console.Write("Введите значение переменной X1: ");
                 if (!double.TryParse(Console.ReadLine(), out double x1))
                 {
-                    Console.WriteLine("Ошибка");
+                    Console.WriteLine("Пожалуйста, введите корректное число!");
                     continue;
                 }
                 Console.Write("Введите значение переменной Y1: ");
                 if (!double.TryParse(Console.ReadLine(), out double y1))
                 {
-                    Console.WriteLine("Ошибка");
+                    Console.WriteLine("Пожалуйста, введите корректное число!");
                     continue;
                 }
 

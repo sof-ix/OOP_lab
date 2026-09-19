@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sofan\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sofan\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sofan\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\sofan\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\sofan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sofan\\source\\repos\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofan\\AppData\\Roaming\\NuGet\\NuGet.Config",
