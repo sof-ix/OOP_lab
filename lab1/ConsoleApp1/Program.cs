@@ -19,26 +19,25 @@ namespace Lab1Variant12
                     continue;
                 }
 
-                if (choice == 1)
+                switch (choice)
                 {
-                    new FirstTask();
+                    default:
+                        Console.WriteLine("Нет такого значения!");
+                        break;
+                    case 1:
+                        var task1 = new FirstTask();
+                        break;
+                    case 2:
+                        var task2 = new SecondTask();
+                        break;
+                    case 3:
+                        var task3 = new ThirdTask();
+                        break;
+                    case 0:
+                        return;
                 }
-                else if (choice == 2)
-                {
-                    new SecondTask();
-                }
-                else if (choice == 3)
-                {
-                    new ThirdTask();
-                }
-                else if (choice == 0)
-                {
-                    return;
-                }
-                else
-                {
-                    Console.WriteLine("Нет такого значения");
-                }
+
+
             }
         }
     }
@@ -121,13 +120,13 @@ namespace Lab1Variant12
                 Console.Write("Введите значение переменной X1: ");
                 if (!double.TryParse(Console.ReadLine(), out double x1))
                 {
-                    Console.WriteLine("Пожалуйста, введите корректное число!");
+                    Console.WriteLine("Ошибка");
                     continue;
                 }
                 Console.Write("Введите значение переменной Y1: ");
                 if (!double.TryParse(Console.ReadLine(), out double y1))
                 {
-                    Console.WriteLine("Пожалуйста, введите корректное число!");
+                    Console.WriteLine("Ошибка");
                     continue;
                 }
 
