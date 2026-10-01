@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab2\\var 11\\var 11.csproj",
+      "projectUniqueName": "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab3\\var 11\\var 11.csproj",
       "projectName": "var 11",
-      "projectPath": "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab2\\var 11\\var 11.csproj",
+      "projectPath": "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab3\\var 11\\var 11.csproj",
       "packagesPath": "C:\\Users\\sofan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab2\\var 11\\obj\\",
+      "outputPath": "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab3\\var 11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sofan\\AppData\\Roaming\\NuGet\\NuGet.Config",

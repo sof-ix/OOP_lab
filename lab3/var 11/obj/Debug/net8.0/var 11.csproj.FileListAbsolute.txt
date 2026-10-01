@@ -1,0 +1,15 @@
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\obj\Debug\net8.0\var 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\obj\Debug\net8.0\var 11.AssemblyInfoInputs.cache
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\obj\Debug\net8.0\var 11.AssemblyInfo.cs
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\obj\Debug\net8.0\var 11.csproj.CoreCompileInputs.cache
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\obj\Debug\net8.0\var 11.sourcelink.json
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\bin\Debug\net8.0\var 11.exe
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\bin\Debug\net8.0\var 11.deps.json
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\bin\Debug\net8.0\var 11.runtimeconfig.json
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\bin\Debug\net8.0\var 11.dll
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\bin\Debug\net8.0\var 11.pdb
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\obj\Debug\net8.0\var 11.dll
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\obj\Debug\net8.0\refint\var 11.dll
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\obj\Debug\net8.0\var 11.pdb
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\obj\Debug\net8.0\var 11.genruntimeconfig.cache
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab3\var 11\obj\Debug\net8.0\ref\var 11.dll

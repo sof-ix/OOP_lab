@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab2\\var 11\\",
+  "WorkspaceRootPath": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab3\\var 11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C06048A-154D-405D-97CD-7299648273F7}|var 11.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab2\\var 11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C06048A-154D-405D-97CD-7299648273F7}|var 11.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab3\\var 11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C06048A-154D-405D-97CD-7299648273F7}|var 11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab2\\var 11\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab3\\var 11\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab2\\var 11\\Program.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab3\\var 11\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwDAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-01T17:44:19.643Z",
               "EditorCaption": ""
