@@ -7,8 +7,6 @@ namespace Lab2Var11
         public static void Main()
         {
 
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
-
             double a = 0.1;
             double b = 1.0;
             double eps = 0.0001;
