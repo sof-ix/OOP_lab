@@ -7,11 +7,11 @@ namespace Lab2Var11
         public static void Main()
         {
 
-            double a = 0.1;
-            double b = 1.0;
-            double eps = 0.0001;
-            int k = 9;
-            int n = 10;
+            const double a = 0.1;
+            const double b = 1.0;
+            const double eps = 0.0001;
+            const int k = 9;
+            const int n = 10;
 
             double h = (b - a) / k;
 
