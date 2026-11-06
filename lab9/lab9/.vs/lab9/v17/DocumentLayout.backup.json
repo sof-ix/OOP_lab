@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab9\\lab9\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{46310F96-848C-47B5-A9C8-0D57F166AB82}|lab9.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab9\\lab9\\timearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46310F96-848C-47B5-A9C8-0D57F166AB82}|lab9.csproj|solutionrelative:timearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46310F96-848C-47B5-A9C8-0D57F166AB82}|lab9.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab9\\lab9\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46310F96-848C-47B5-A9C8-0D57F166AB82}|lab9.csproj|solutionrelative:time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46310F96-848C-47B5-A9C8-0D57F166AB82}|lab9.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab9\\lab9\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46310F96-848C-47B5-A9C8-0D57F166AB82}|lab9.csproj|solutionrelative:userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -16,14 +24,6 @@
       "AbsoluteMoniker": "D:0:0:{A74B0453-70A3-4EF1-BD95-9DF554242EBD}|..\\Lab9.Tests\\Lab9.Tests.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab9\\lab9.tests\\timetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46310F96-848C-47B5-A9C8-0D57F166AB82}|lab9.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab9\\lab9\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46310F96-848C-47B5-A9C8-0D57F166AB82}|lab9.csproj|solutionrelative:time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46310F96-848C-47B5-A9C8-0D57F166AB82}|lab9.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab9\\lab9\\timearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46310F96-848C-47B5-A9C8-0D57F166AB82}|lab9.csproj|solutionrelative:timearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46310F96-848C-47B5-A9C8-0D57F166AB82}|lab9.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab9\\lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46310F96-848C-47B5-A9C8-0D57F166AB82}|lab9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,7 +35,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,8 +46,12 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Timetests.cs",
               "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab9\\Lab9.Tests\\Timetests.cs",
               "RelativeDocumentMoniker": "..\\Lab9.Tests\\Timetests.cs",
@@ -59,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Timearraytests.cs",
               "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab9\\Lab9.Tests\\Timearraytests.cs",
               "RelativeDocumentMoniker": "..\\Lab9.Tests\\Timearraytests.cs",
@@ -71,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProgramTests.cs",
               "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab9\\Lab9.Tests\\ProgramTests.cs",
               "RelativeDocumentMoniker": "..\\Lab9.Tests\\ProgramTests.cs",
@@ -83,40 +87,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Userinterface.cs",
               "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab9\\lab9\\Userinterface.cs",
               "RelativeDocumentMoniker": "Userinterface.cs",
               "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab9\\lab9\\Userinterface.cs",
               "RelativeToolTip": "Userinterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-31T05:26:28.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "TimeArray.cs",
               "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab9\\lab9\\TimeArray.cs",
               "RelativeDocumentMoniker": "TimeArray.cs",
               "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab9\\lab9\\TimeArray.cs",
               "RelativeToolTip": "TimeArray.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T05:19:18.503Z"
+              "WhenOpened": "2026-10-31T05:19:18.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Time.cs",
               "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab9\\lab9\\Time.cs",
               "RelativeDocumentMoniker": "Time.cs",
               "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab9\\lab9\\Time.cs",
               "RelativeToolTip": "Time.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwD8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwGoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T04:34:27.022Z"
+              "WhenOpened": "2026-10-31T04:34:27.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -129,10 +135,6 @@
               "ViewState": "AgIAAEkAAAAAAAAAAAAwwGsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-30T17:57:16.212Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

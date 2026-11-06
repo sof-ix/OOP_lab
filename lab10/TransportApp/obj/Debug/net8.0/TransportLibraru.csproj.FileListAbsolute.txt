@@ -1,0 +1,12 @@
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab10\TransportApp\bin\Debug\net8.0\TransportLibraru.deps.json
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab10\TransportApp\bin\Debug\net8.0\TransportLibraru.dll
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab10\TransportApp\bin\Debug\net8.0\TransportLibraru.pdb
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab10\TransportApp\obj\Debug\net8.0\TransportLibraru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab10\TransportApp\obj\Debug\net8.0\TransportLibraru.AssemblyInfoInputs.cache
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab10\TransportApp\obj\Debug\net8.0\TransportLibraru.AssemblyInfo.cs
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab10\TransportApp\obj\Debug\net8.0\TransportLibraru.csproj.CoreCompileInputs.cache
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab10\TransportApp\obj\Debug\net8.0\TransportLibraru.sourcelink.json
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab10\TransportApp\obj\Debug\net8.0\TransportLibraru.dll
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab10\TransportApp\obj\Debug\net8.0\refint\TransportLibraru.dll
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab10\TransportApp\obj\Debug\net8.0\TransportLibraru.pdb
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab10\TransportApp\obj\Debug\net8.0\ref\TransportLibraru.dll
