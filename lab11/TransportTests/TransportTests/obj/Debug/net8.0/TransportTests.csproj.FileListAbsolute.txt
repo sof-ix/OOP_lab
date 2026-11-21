@@ -1,0 +1,10 @@
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\TransportTests\TransportTests\obj\Debug\net8.0\TransportTests.csproj.AssemblyReference.cache
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\TransportTests\TransportTests\obj\Debug\net8.0\TransportTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\TransportTests\TransportTests\obj\Debug\net8.0\TransportTests.AssemblyInfoInputs.cache
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\TransportTests\TransportTests\obj\Debug\net8.0\TransportTests.AssemblyInfo.cs
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\TransportTests\TransportTests\obj\Debug\net8.0\TransportTests.csproj.CoreCompileInputs.cache
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\TransportTests\TransportTests\obj\Debug\net8.0\TransportTests.gentestingplatformentrypointinputcache.cache
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\TransportTests\TransportTests\obj\Debug\net8.0\TransportTests.genautoregisteredextensionsinputcache.cache
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\TransportTests\TransportTests\obj\Debug\net8.0\AutoRegisteredExtensions.cs
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\TransportTests\TransportTests\obj\Debug\net8.0\TestPlatformEntryPoint.cs
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\TransportTests\TransportTests\obj\Debug\net8.0\TransportTests.sourcelink.json

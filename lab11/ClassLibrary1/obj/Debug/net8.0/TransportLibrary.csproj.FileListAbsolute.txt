@@ -1,0 +1,12 @@
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\ClassLibrary1\bin\Debug\net8.0\TransportLibrary.deps.json
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\ClassLibrary1\bin\Debug\net8.0\TransportLibrary.dll
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\ClassLibrary1\bin\Debug\net8.0\TransportLibrary.pdb
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\ClassLibrary1\obj\Debug\net8.0\TransportLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\ClassLibrary1\obj\Debug\net8.0\TransportLibrary.AssemblyInfoInputs.cache
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\ClassLibrary1\obj\Debug\net8.0\TransportLibrary.AssemblyInfo.cs
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\ClassLibrary1\obj\Debug\net8.0\TransportLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\ClassLibrary1\obj\Debug\net8.0\TransportLibrary.sourcelink.json
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\ClassLibrary1\obj\Debug\net8.0\TransportLibrary.dll
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\ClassLibrary1\obj\Debug\net8.0\refint\TransportLibrary.dll
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\ClassLibrary1\obj\Debug\net8.0\TransportLibrary.pdb
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\ClassLibrary1\obj\Debug\net8.0\ref\TransportLibrary.dll

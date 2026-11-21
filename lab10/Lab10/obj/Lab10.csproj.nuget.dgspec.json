@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab10\\Lab10\\Lab10.csproj": {}
+    "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab10\\lab10\\Lab10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab10\\Lab10\\Lab10.csproj": {
+    "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab10\\lab10\\Lab10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab10\\Lab10\\Lab10.csproj",
+        "projectUniqueName": "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab10\\lab10\\Lab10.csproj",
         "projectName": "Lab10",
-        "projectPath": "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab10\\Lab10\\Lab10.csproj",
+        "projectPath": "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab10\\lab10\\Lab10.csproj",
         "packagesPath": "C:\\Users\\sofan\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sofan\\Desktop\\ycheba\\ооп\\OOP_lab\\lab10\\Lab10\\obj\\",
         "projectStyle": "PackageReference",

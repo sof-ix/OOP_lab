@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\lab11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B24CE253-3AF5-4500-ABAF-1E52A6F4EB58}|..\\lab11_app\\lab11_app.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\lab11_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BA88-074A-4EF9-AC90-E031F04E2D62}|..\\ClassLibrary1\\TransportLibrary.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\classlibrary1\\queuetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BA88-074A-4EF9-AC90-E031F04E2D62}|..\\ClassLibrary1\\TransportLibrary.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\classlibrary1\\express.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BA88-074A-4EF9-AC90-E031F04E2D62}|..\\ClassLibrary1\\TransportLibrary.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\classlibrary1\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BA88-074A-4EF9-AC90-E031F04E2D62}|..\\ClassLibrary1\\TransportLibrary.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\classlibrary1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8F5C82-DBC9-4712-8B60-909E752CACB8}|..\\TransportTests\\TransportTests\\TransportTests.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\transporttests\\transporttests\\transporttests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BA88-074A-4EF9-AC90-E031F04E2D62}|..\\ClassLibrary1\\TransportLibrary.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\classlibrary1\\hashtabletasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BA88-074A-4EF9-AC90-E031F04E2D62}|..\\ClassLibrary1\\TransportLibrary.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\classlibrary1\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BA88-074A-4EF9-AC90-E031F04E2D62}|..\\ClassLibrary1\\TransportLibrary.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\classlibrary1\\testcollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8F5C82-DBC9-4712-8B60-909E752CACB8}|..\\TransportTests\\TransportTests\\TransportTests.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\transporttests\\transporttests\\queuetasktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8F5C82-DBC9-4712-8B60-909E752CACB8}|..\\TransportTests\\TransportTests\\TransportTests.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\transporttests\\transporttests\\testcollectionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8F5C82-DBC9-4712-8B60-909E752CACB8}|..\\TransportTests\\TransportTests\\TransportTests.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\transporttests\\transporttests\\hashtabletaskstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8F5C82-DBC9-4712-8B60-909E752CACB8}|..\\TransportTests\\TransportTests\\TransportTests.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\transporttests\\transporttests\\carcollectionsupporttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BA88-074A-4EF9-AC90-E031F04E2D62}|..\\ClassLibrary1\\TransportLibrary.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\classlibrary1\\transportvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BA88-074A-4EF9-AC90-E031F04E2D62}|..\\ClassLibrary1\\TransportLibrary.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\classlibrary1\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BA88-074A-4EF9-AC90-E031F04E2D62}|..\\ClassLibrary1\\TransportLibrary.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\classlibrary1\\sortbyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BA88-074A-4EF9-AC90-E031F04E2D62}|..\\ClassLibrary1\\TransportLibrary.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\classlibrary1\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BA88-074A-4EF9-AC90-E031F04E2D62}|..\\ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sofan\\desktop\\ycheba\\\u043E\u043E\u043F\\oop_lab\\lab11\\classlibrary1\\iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\lab11_app\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab11_app\\Program.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\lab11_app\\Program.cs",
+              "RelativeToolTip": "..\\lab11_app\\Program.cs",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAAAIYBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:49:14.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransportTests",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\TransportTests\\TransportTests\\TransportTests.csproj",
+              "RelativeDocumentMoniker": "..\\TransportTests\\TransportTests\\TransportTests.csproj",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\TransportTests\\TransportTests\\TransportTests.csproj",
+              "RelativeToolTip": "..\\TransportTests\\TransportTests\\TransportTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-21T07:39:21.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HashtableTasks.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\HashtableTasks.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\HashtableTasks.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\HashtableTasks.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\HashtableTasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:33:33.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueTask.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\QueueTask.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\QueueTask.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\QueueTask.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\QueueTask.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwGYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:31:27.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestCollections.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\TestCollections.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\TestCollections.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\TestCollections.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\TestCollections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:29:18.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HashtableTasksTests.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\TransportTests\\TransportTests\\HashtableTasksTests.cs",
+              "RelativeDocumentMoniker": "..\\TransportTests\\TransportTests\\HashtableTasksTests.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\TransportTests\\TransportTests\\HashtableTasksTests.cs",
+              "RelativeToolTip": "..\\TransportTests\\TransportTests\\HashtableTasksTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:27:26.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarCollectionSupportTests.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\TransportTests\\TransportTests\\CarCollectionSupportTests.cs",
+              "RelativeDocumentMoniker": "..\\TransportTests\\TransportTests\\CarCollectionSupportTests.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\TransportTests\\TransportTests\\CarCollectionSupportTests.cs",
+              "RelativeToolTip": "..\\TransportTests\\TransportTests\\CarCollectionSupportTests.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:26:30.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestCollectionsTests.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\TransportTests\\TransportTests\\TestCollectionsTests.cs",
+              "RelativeDocumentMoniker": "..\\TransportTests\\TransportTests\\TestCollectionsTests.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\TransportTests\\TransportTests\\TestCollectionsTests.cs",
+              "RelativeToolTip": "..\\TransportTests\\TransportTests\\TestCollectionsTests.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:25:53.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueueTaskTests.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\TransportTests\\TransportTests\\QueueTaskTests.cs",
+              "RelativeDocumentMoniker": "..\\TransportTests\\TransportTests\\QueueTaskTests.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\TransportTests\\TransportTests\\QueueTaskTests.cs",
+              "RelativeToolTip": "..\\TransportTests\\TransportTests\\QueueTaskTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:23:04.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Queries.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\Queries.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Queries.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\Queries.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\Queries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:01:38.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\Car.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Car.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\Car.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T07:00:33.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransportVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\TransportVehicle.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\TransportVehicle.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\TransportVehicle.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\TransportVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T06:56:24.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\Search.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Search.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\Search.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\Search.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T06:55:21.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SortByName.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\SortByName.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\SortByName.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\SortByName.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\SortByName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T06:55:02.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Express.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\Express.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Express.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\Express.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\Express.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswDsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T06:54:33.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\Train.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Train.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\Train.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\Train.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T06:54:09.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\Driver.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Driver.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\Driver.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T06:45:31.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Iinit.cs",
+              "DocumentMoniker": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\Iinit.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Iinit.cs",
+              "ToolTip": "C:\\Users\\sofan\\Desktop\\ycheba\\\u043E\u043E\u043F\\OOP_lab\\lab11\\ClassLibrary1\\Iinit.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\Iinit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T06:37:20.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

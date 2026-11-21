@@ -1,0 +1,2 @@
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\lab11\obj\Debug\lab11.csproj.AssemblyReference.cache
+C:\Users\sofan\Desktop\ycheba\ооп\OOP_lab\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
